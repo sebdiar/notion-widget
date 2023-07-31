@@ -1,0 +1,163 @@
+<div class="grid-stack-item widget dashboard-sales-growth-widget ui-resizable-autohide ui-draggable-disabled ui-resizable-disabled" style="font-family:&quot;Source Sans Pro&quot;" data-controller="dashboard-sales-growth-widget dashboard-widget" data-dashboard-sales-growth-widget-data-value="{&quot;granularity&quot;:&quot;day&quot;,&quot;metric&quot;:&quot;grossRevenue&quot;,&quot;items&quot;:[{&quot;fba&quot;:976.99,&quot;fbm&quot;:1354.23,&quot;period&quot;:&quot;2023-06-30&quot;},{&quot;fba&quot;:1015.27,&quot;fbm&quot;:1668.17,&quot;period&quot;:&quot;2023-07-01&quot;},{&quot;fba&quot;:838.24,&quot;fbm&quot;:1794.04,&quot;period&quot;:&quot;2023-07-02&quot;},{&quot;fba&quot;:828.27,&quot;fbm&quot;:1726.19,&quot;period&quot;:&quot;2023-07-03&quot;},{&quot;fba&quot;:644.14,&quot;fbm&quot;:1812.24,&quot;period&quot;:&quot;2023-07-04&quot;},{&quot;fba&quot;:877.39,&quot;fbm&quot;:798.6,&quot;period&quot;:&quot;2023-07-05&quot;},{&quot;fba&quot;:553.12,&quot;fbm&quot;:1108.06,&quot;period&quot;:&quot;2023-07-06&quot;},{&quot;fba&quot;:722.84,&quot;fbm&quot;:2068.32,&quot;period&quot;:&quot;2023-07-07&quot;},{&quot;fba&quot;:753.19,&quot;fbm&quot;:1418.8,&quot;period&quot;:&quot;2023-07-08&quot;},{&quot;fba&quot;:526.89,&quot;fbm&quot;:1832.01,&quot;period&quot;:&quot;2023-07-09&quot;},{&quot;fba&quot;:707.7,&quot;fbm&quot;:1634.13,&quot;period&quot;:&quot;2023-07-10&quot;},{&quot;fba&quot;:1576.12,&quot;fbm&quot;:2579.66,&quot;period&quot;:&quot;2023-07-11&quot;},{&quot;fba&quot;:924.81,&quot;fbm&quot;:2060.12,&quot;period&quot;:&quot;2023-07-12&quot;},{&quot;fba&quot;:535.15,&quot;fbm&quot;:1540.39,&quot;period&quot;:&quot;2023-07-13&quot;},{&quot;fba&quot;:385.38,&quot;fbm&quot;:1934.44,&quot;period&quot;:&quot;2023-07-14&quot;},{&quot;fba&quot;:521.25,&quot;fbm&quot;:2451.19,&quot;period&quot;:&quot;2023-07-15&quot;},{&quot;fba&quot;:191.7,&quot;fbm&quot;:1845.71,&quot;period&quot;:&quot;2023-07-16&quot;},{&quot;fba&quot;:73.91,&quot;fbm&quot;:2475.78,&quot;period&quot;:&quot;2023-07-17&quot;},{&quot;fba&quot;:304,&quot;fbm&quot;:837.49,&quot;period&quot;:&quot;2023-07-18&quot;},{&quot;fba&quot;:345.39,&quot;fbm&quot;:501.99,&quot;period&quot;:&quot;2023-07-19&quot;},{&quot;fba&quot;:116.4,&quot;fbm&quot;:406.24,&quot;period&quot;:&quot;2023-07-20&quot;},{&quot;fba&quot;:115.78,&quot;fbm&quot;:344.86,&quot;period&quot;:&quot;2023-07-21&quot;},{&quot;fba&quot;:38.79,&quot;fbm&quot;:894.66,&quot;period&quot;:&quot;2023-07-22&quot;},{&quot;fba&quot;:0,&quot;fbm&quot;:1094.57,&quot;period&quot;:&quot;2023-07-23&quot;},{&quot;fba&quot;:-4.1,&quot;fbm&quot;:242.91,&quot;period&quot;:&quot;2023-07-24&quot;},{&quot;fba&quot;:254.82,&quot;fbm&quot;:472.23,&quot;period&quot;:&quot;2023-07-25&quot;},{&quot;fba&quot;:107.02,&quot;fbm&quot;:224.56,&quot;period&quot;:&quot;2023-07-26&quot;},{&quot;fba&quot;:467.35,&quot;fbm&quot;:1002.08,&quot;period&quot;:&quot;2023-07-27&quot;},{&quot;fba&quot;:410.79,&quot;fbm&quot;:278.96,&quot;period&quot;:&quot;2023-07-28&quot;},{&quot;fba&quot;:758.33,&quot;fbm&quot;:625.68,&quot;period&quot;:&quot;2023-07-29&quot;},{&quot;fba&quot;:607.85,&quot;fbm&quot;:742.57,&quot;period&quot;:&quot;2023-07-30&quot;}]}" data-dashboard-sales-growth-widget-bs-icons-asset-path-value="/assets-n/bootstrap-icons-e5c2d49cc2a6418af28e7b9d0d0a494a.svg" data-dashboard-sales-growth-widget-user-currency-value="USD" data-dashboard-sales-growth-widget-config-value="" data-params="{&quot;dateRange&quot;:&quot;30days&quot;,&quot;chartOptionDataLabels&quot;:&quot;always&quot;,&quot;chartOptionChartType&quot;:&quot;bar&quot;,&quot;metric&quot;:&quot;grossRevenue&quot;,&quot;fbaFbm&quot;:&quot;unified&quot;,&quot;country&quot;:&quot;&quot;,&quot;endDate&quot;:&quot;&quot;,&quot;keyword&quot;:&quot;&quot;,&quot;orderType&quot;:&quot;&quot;,&quot;startDate&quot;:&quot;&quot;}" data-type="sales-growth" gs-id="20" gs-w="32" gs-h="32" gs-x="0" gs-y="32" gs-min-w="24" gs-min-h="32" gs-max-h="32">
+<div class="grid-stack-item-content rounded-2 bg-white shadow">
+            
+            <div class="d-flex flex-column h-100">
+              <div class="bg-widget-7 text-white p-3 widget-header">
+                    <div class="d-flex align-items-center w-100 py-2">
+                <div class="position-absolute start-0 mb-0 text-center w-100 text-uppercase text-center fs-5 fw-medium text-nowrap noselect">
+                          Sales Growth
+                  <div style="font-size:0.825rem">
+                              <span class=" align-middle">
+                                <span data-dashboard-widget-target="info" data-labels="{&quot;today&quot;:&quot;Today&quot;,&quot;24hrs&quot;:&quot;Last 24Hrs&quot;,&quot;yesterday&quot;:&quot;Yesterday&quot;,&quot;day-before-yesterday&quot;:&quot;Day Before Yesterday&quot;,&quot;this-week&quot;:&quot;This Week&quot;,&quot;last-week&quot;:&quot;Last Week&quot;,&quot;7days&quot;:&quot;Last 7 Days&quot;,&quot;14days&quot;:&quot;Last 14 Days&quot;,&quot;this-month&quot;:&quot;This Month&quot;,&quot;last-month&quot;:&quot;Last Month&quot;,&quot;month-before-last&quot;:&quot;Month Before Last&quot;,&quot;30days&quot;:&quot;Last 30 Days&quot;,&quot;6months&quot;:&quot;Last 6 Months&quot;,&quot;12months&quot;:&quot;Last 12 Months&quot;,&quot;this-year&quot;:&quot;Year to Date&quot;,&quot;last-year&quot;:&quot;Last Year&quot;,&quot;all-time&quot;:&quot;All Time&quot;,&quot;&quot;:&quot;Custom&quot;}" data-implicit-value="-" data-param="dateRange">
+                                  
+                                  <svg class="icon me-1" style="width:1em;height:1em;color:inherit;fill:inherit;">
+                                <use xlink:href="/assets-n/bootstrap-icons-e5c2d49cc2a6418af28e7b9d0d0a494a.svg#calendar3"></use>
+                              </svg>
+                                  <span data-info-text="">Last 30 Days</span>
+                                </span>
+                              </span>
+                              <span class="ms-1 align-middle">
+                                <span data-dashboard-widget-target="info" data-labels="" data-implicit-value="" data-param="country" class="d-none">
+                                  <span class="me-2">/</span>
+                                  
+                                  <span data-info-text=""></span>
+                                </span>
+                              </span>
+                              <span class="ms-1 align-middle">
+                                <span data-dashboard-widget-target="info" data-labels="{&quot;&quot;:&quot;All Orders&quot;,&quot;fba&quot;:&quot;FBA&quot;,&quot;fbm&quot;:&quot;FBM&quot;,&quot;business&quot;:&quot;Business&quot;,&quot;retail&quot;:&quot;Retail&quot;,&quot;promos&quot;:&quot;Promos&quot;,&quot;snl&quot;:&quot;Small &amp; Light eligible&quot;}" data-implicit-value="" data-param="orderType" class="d-none">
+                                  <span class="me-2">/</span>
+                                  
+                                  <span data-info-text="">All Orders</span>
+                                </span>
+                              </span>
+                              <span class="ms-1 align-middle">
+                                <span data-dashboard-widget-target="info" data-labels="" data-implicit-value="" data-param="keyword" class="d-none">
+                                  <span class="me-2">/</span>
+                                  
+                                  <span data-info-text=""></span>
+                                </span>
+                              </span>
+                  </div>
+                </div>
+                <div class="dropdown ms-auto">
+                  <a data-bs-toggle="dropdown" aria-expanded="false" class="fs-4 dropdown-toggle dropdown-toggle--no-caret" href="#" role="button" data-action="click->dashboard-widget#onWidgetDropdownToggled">
+                    <svg class="icon text-white" style="width:1em;height:1em;color:inherit;fill:inherit;position:relative;left:10px;top:-15px;">
+                      <use xlink:href="/assets-n/bootstrap-icons-e5c2d49cc2a6418af28e7b9d0d0a494a.svg#gear-fill"></use>
+                    </svg>  </a>
+                  <div class="mt-2 p-3 dropdown-menu shadow border-0" aria-labelledby="dropdownMenuLink" onclick="event.stopPropagation()" style="">
+                    <div>
+                              <select data-dashboard-widget-target="param" name="country">
+                              <option value="">All Countries</option>
+                                  <option value="US">United States</option>
+                              </select>
+                              <select data-dashboard-widget-target="param" name="orderType">
+                                  <option value="">All Orders</option>
+                                  <option value="fba">FBA</option>
+                                  <option value="fbm">FBM</option>
+                                  <option value="business">Business</option>
+                                  <option value="retail">Retail</option>
+                                  <option value="promos">Promos</option>
+                                  <option value="snl">Small &amp; Light eligible</option>
+                              </select>
+                              
+                              <div data-controller="">
+                                <select data-dashboard-widget-target="param" name="dateRange" data-action="change->dashboard-widget#onChangeDateRange">
+                                    <option value="today">Today</option>
+                                    <option value="24hrs">Last 24Hrs</option>
+                                    <option value="yesterday">Yesterday</option>
+                                    <option value="day-before-yesterday">Day Before Yesterday</option>
+                                    <option value="this-week">This Week</option>
+                                    <option value="last-week">Last Week</option>
+                                    <option value="7days">Last 7 Days</option>
+                                    <option value="14days">Last 14 Days</option>
+                                    <option value="this-month">This Month</option>
+                                    <option value="last-month">Last Month</option>
+                                    <option value="month-before-last">Month Before Last</option>
+                                    <option value="30days">Last 30 Days</option>
+                                    <option value="6months">Last 6 Months</option>
+                                    <option value="12months">Last 12 Months</option>
+                                    <option value="this-year">Year to Date</option>
+                                    <option value="last-year">Last Year</option>
+                                    <option value="all-time">All Time</option>
+                                    <option value="">Custom</option>
+                                </select>
+                                <div id="date-range" class="date-range visible">
+                                  <input data-dashboard-widget-target="dateRangeInput" type="text" class="d-none">
+                                    <input type="hidden" data-dashboard-widget-target="param" name="startDate" data-action="change->dashboard-widget#onChangeDateRange" value="">
+                                    <input type="hidden" data-dashboard-widget-target="param" name="endDate" data-action="change->dashboard-widget#onChangeDateRange" value="">
+                                </div>
+                              </div>
+                              
+                              <div data-controller="product-autocompleter">
+                                <div data-controller="clearable-input" class="d-flex align-items-center clearable-input">
+                                  <input type="sales-growth" class="" name="keyword" value="" autocomplete="off" aria-label="" placeholder="Enter a SKU or ASIN" data-clearable-input-target="input" onkeydown="if (event.keyCode == 13) {
+                                      this.blur();
+                                      return false;
+                                    }" style="padding-right:2.2em;margin:0;" data-action="blur->clearable-input#blur focus->clearable-input#focus " data-product-autocompleter-target="input" data-dashboard-widget-target="param">
+                                  <div role="button" data-clearable-input-target="clear" style="position:relative" data-action="mousedown->clearable-input#clear" class="d-none clearable-input__x">
+                                    <svg style="width:1em;height:1em;color:inherit;position:absolute;left:-1.75em;top:-0.5em">
+                                      <use xlink:href="/assets-n/bootstrap-icons-e5c2d49cc2a6418af28e7b9d0d0a494a.svg#x-lg"></use>
+                                    </svg>
+                                  </div>
+                                </div></div>
+                              
+                              <div class="d-grid grid-cols-3 mt-1 align-items-center" style="font-size:0.8rem" data-controller="dashboard-widget-button-group">
+                                <div style="color:0">Series style</div>
+                                  <button class="widget-button-default nowrap border-end-0 rounded-start" data-value="line" data-dashboard-widget-button-group-target="option" data-action="click->dashboard-widget-button-group#onClickOption">
+                                    Line
+                                  </button>
+                                  <button class="widget-button-default nowrap rounded-end active" data-value="bar" data-dashboard-widget-button-group-target="option" data-action="click->dashboard-widget-button-group#onClickOption">
+                                    Bar
+                                  </button>
+                                <input data-dashboard-widget-target="param" data-dashboard-widget-button-group-target="input" name="chartOptionChartType" type="hidden" data-action="change->dashboard-widget-button-group#onChange" value="bar">
+                              </div>
+                              
+                              <div class="d-grid grid-cols-3 mt-1 align-items-center" style="font-size:0.8rem" data-controller="dashboard-widget-button-group">
+                                <div style="color:0">Data Labels</div>
+                                  <button class="widget-button-default nowrap border-end-0 rounded-start" data-value="onhover" data-dashboard-widget-button-group-target="option" data-action="click->dashboard-widget-button-group#onClickOption">
+                                    On Hover
+                                  </button>
+                                  <button class="widget-button-default nowrap rounded-end active" data-value="always" data-dashboard-widget-button-group-target="option" data-action="click->dashboard-widget-button-group#onClickOption">
+                                    Always
+                                  </button>
+                                <input data-dashboard-widget-target="param" data-dashboard-widget-button-group-target="input" name="chartOptionDataLabels" type="hidden" data-action="change->dashboard-widget-button-group#onChange" value="always">
+                              </div>
+                              
+                              <div class="d-grid grid-cols-3 mt-1 align-items-center" style="font-size:0.8rem" data-controller="dashboard-widget-button-group">
+                                <div style="color:0">FBA/FBM</div>
+                                  <button class="widget-button-default nowrap border-end-0 rounded-start active" data-value="unified" data-dashboard-widget-button-group-target="option" data-action="click->dashboard-widget-button-group#onClickOption">
+                                    Unified
+                                  </button>
+                                  <button class="widget-button-default nowrap rounded-end" data-value="split" data-dashboard-widget-button-group-target="option" data-action="click->dashboard-widget-button-group#onClickOption">
+                                    Split
+                                  </button>
+                                <input data-dashboard-widget-target="param" data-dashboard-widget-button-group-target="input" name="fbaFbm" type="hidden" data-action="change->dashboard-widget-button-group#onChange" value="unified">
+                              </div>
+                              
+                              <div class="d-grid grid-cols-3 mt-1 align-items-center" style="font-size:0.8rem" data-controller="dashboard-widget-button-group">
+                                <div style="color:0">Metric</div>
+                                  <button class="widget-button-default nowrap border-end-0 rounded-start" data-value="unitsSold" data-dashboard-widget-button-group-target="option" data-action="click->dashboard-widget-button-group#onClickOption">
+                                    Units Sold
+                                  </button>
+                                  <button class="widget-button-default nowrap rounded-end active" data-value="grossRevenue" data-dashboard-widget-button-group-target="option" data-action="click->dashboard-widget-button-group#onClickOption">
+                                    Revenue
+                                  </button>
+                                <input data-dashboard-widget-target="param" data-dashboard-widget-button-group-target="input" name="metric" type="hidden" data-action="change->dashboard-widget-button-group#onChange" value="grossRevenue">
+                              </div>
+                    </div>
+                    <div class="d-flex mt-3">
+                      <button class="ms-auto button rounded border-1 border-gray bg-white" data-action="click->dashboard-widget#onWidgetDropdownConfirm">
+                        Save
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                    </div>
+              </div>
+              <div class="mx-auto h-100 w-100">
+                <canvas data-dashboard-sales-growth-widget-target="chart" width="710" height="349" style="display: block; box-sizing: border-box; height: 387.778px; width: 788.889px;">
+              </canvas></div>
+            </div>
+            
+</div>
+      </div>
